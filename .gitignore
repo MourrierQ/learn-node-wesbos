@@ -4,4 +4,4 @@ node_modules/
 .idea
 haters/
 variables.env
-variables.env.nom
+variables.env.now
